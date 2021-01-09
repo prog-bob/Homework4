@@ -1,6 +1,6 @@
 pipeline {
 
-       agent {label "ubuntu_interactive" }
+       agent {label "111" }
 
 
        stages {
